@@ -1,0 +1,4 @@
+*.json
+/*.egg-info/
+/.eggs/
+*.pyc
